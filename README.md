@@ -28,9 +28,9 @@
 * live_plot = LivePlot(idList, ratioList, color, flag): این یک نمودار زنده ایجاد می
 
 
-[
-](https://drive.google.com/file/d/1KwvyQKYhLMnQVGjrRAucBFAAUbqBGVXd/view?usp=drivesdk
-)
+
+https://drive.google.com/file/d/1KwvyQKYhLMnQVGjrRAucBFAAUbqBGVXd/view?usp=drivesdk
+
 
 
 
@@ -124,8 +124,7 @@ Use code with caution. Learn more
 توضیح:
 تابع compute_distance() فاصله اقلیدسی بین دو بردار ویژگی MFCC را محاسبه می کند
 
-[
-](https://drive.google.com/file/d/15cyMXUYRX8xp5w_9IH3aX3g2lu3RGzoH/view?usp=sharing)
+https://drive.google.com/file/d/15cyMXUYRX8xp5w_9IH3aX3g2lu3RGzoH/view?usp=sharing
 
 
 گروه الکترو پای
