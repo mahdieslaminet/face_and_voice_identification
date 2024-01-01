@@ -29,11 +29,9 @@
 
 
 
-https://drive.google.com/file/d/1KwvyQKYhLMnQVGjrRAucBFAAUbqBGVXd/view?usp=drivesdk
-
-
-
-
+https://drive.google.com/file/d/1nUKQ1iH7BNzS2QQzTrBKgyu1l6zTjtvr/view?usp=sharing
+[
+](https://drive.google.com/file/d/1nUKQ1iH7BNzS2QQzTrBKgyu1l6zTjtvr/view?usp=sharing)
 مقایسه دو نمونه صدایی با استفاده از MFCC
 این اسکریپت دو نمونه صدایی را با استفاده از MFCC (Coefficient cepstrum of mel-frequency) مقایسه می کند. MFCC یک ویژگی صوتی است که ویژگی های طیفی صدا را ثبت می کند. با مقایسه MFCC دو قطعه صوتی، می توان میزان شباهت صدای آنها را تعیین کرد.
 نحوه استفاده:
@@ -124,10 +122,9 @@ Use code with caution. Learn more
 توضیح:
 تابع compute_distance() فاصله اقلیدسی بین دو بردار ویژگی MFCC را محاسبه می کند
 
-https://drive.google.com/file/d/15cyMXUYRX8xp5w_9IH3aX3g2lu3RGzoH/view?usp=sharing
-
-
-گروه الکترو پای
+[
+](https://drive.google.com/file/d/1KuPilvf5EI0aWVzy3I-Wdp1s4eUE7Hym/view?usp=sharing)
+https://drive.google.com/file/d/1KuPilvf5EI0aWVzy3I-Wdp1s4eUE7Hym/view?usp=sharing                                                                                  گروه الکترو پای
 تشخیص هوشمند
 روژان بهادری نیا
 امیر صالح
